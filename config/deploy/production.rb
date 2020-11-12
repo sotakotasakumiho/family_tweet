@@ -1,0 +1,1 @@
+server '54.150.164.244', user: 'ec2-user', roles: 　　
